@@ -9,3 +9,4 @@ Smart hashtag suggestions (5–8 per idea)
 Downloadable CSV content file
 Fast inference using Groq API (Free)
 Clean, simple UI built using Streamlit
+![Architecture Diagram](Architecture_diagram.jpg)
